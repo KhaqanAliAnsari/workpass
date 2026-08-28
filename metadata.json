@@ -1,0 +1,6 @@
+{
+  "name": "WorkPass",
+  "description": "Find work. Find workers. A modern 4-tab prototype connecting local laborers with immediate clients, featuring a map radar, secure escrow releasing, and DigiLocker profile verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
